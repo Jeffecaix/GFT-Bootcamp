@@ -1,2 +1,3 @@
 # GFT-Bootcamp
-Etapa Técnica
+Etapa Técnica 
+Leia 5 números.
